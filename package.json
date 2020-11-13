@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://OlehKinchevskyi.github.io/goit-js-hw-10-food-service.git"
+    "url": "git+https://OlehKinchevskyi.github.io/goit-js-hw-10-food-service/"
   },
   "keywords": [],
-  "author": "OlehKinchevskyi <oleh.kinchevskyi@gmail.com>",
+  "author": "OlehKinchevskyi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/OlehKinchevskyi/goit-js-hw-10-food-service/issues"
